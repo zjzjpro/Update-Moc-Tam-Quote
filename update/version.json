@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "notes": "Update!",
+  "version": "1.2.2",
+  "notes": "Cap nhat tinh nang tu dong tao hoa don bang anh/van ban...",
   "zip": "moctam_update.zip",
-  "sha256": "5ed66fba8284b16e136bba04b9ea0a6d204103cc6c64b9f23fce5f3750b00a39",
+  "sha256": "efc62ad4d30feabf80d5b1b93b73b9ae885fce8fa0167d73361c38d0d456329c",
   "min_base": "1.1.0"
 }
